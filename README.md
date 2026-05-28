@@ -1,0 +1,2 @@
+# bavariadiamondlounge
+Static site: bavariadiamondlounge
